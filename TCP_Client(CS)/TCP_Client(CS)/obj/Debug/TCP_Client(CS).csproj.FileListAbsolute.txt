@@ -1,0 +1,10 @@
+C:\Users\yeeso\Desktop\git\TCP\TCP_Client(CS)\TCP_Client(CS)\bin\Debug\TCP_Client(CS).exe.config
+C:\Users\yeeso\Desktop\git\TCP\TCP_Client(CS)\TCP_Client(CS)\bin\Debug\TCP_Client(CS).exe
+C:\Users\yeeso\Desktop\git\TCP\TCP_Client(CS)\TCP_Client(CS)\bin\Debug\TCP_Client(CS).pdb
+C:\Users\yeeso\Desktop\git\TCP\TCP_Client(CS)\TCP_Client(CS)\obj\Debug\TCP_Client(CS).csprojAssemblyReference.cache
+C:\Users\yeeso\Desktop\git\TCP\TCP_Client(CS)\TCP_Client(CS)\obj\Debug\TCP_Client_CS_.Form1.resources
+C:\Users\yeeso\Desktop\git\TCP\TCP_Client(CS)\TCP_Client(CS)\obj\Debug\TCP_Client_CS_.Properties.Resources.resources
+C:\Users\yeeso\Desktop\git\TCP\TCP_Client(CS)\TCP_Client(CS)\obj\Debug\TCP_Client(CS).csproj.GenerateResource.cache
+C:\Users\yeeso\Desktop\git\TCP\TCP_Client(CS)\TCP_Client(CS)\obj\Debug\TCP_Client(CS).csproj.CoreCompileInputs.cache
+C:\Users\yeeso\Desktop\git\TCP\TCP_Client(CS)\TCP_Client(CS)\obj\Debug\TCP_Client(CS).exe
+C:\Users\yeeso\Desktop\git\TCP\TCP_Client(CS)\TCP_Client(CS)\obj\Debug\TCP_Client(CS).pdb
